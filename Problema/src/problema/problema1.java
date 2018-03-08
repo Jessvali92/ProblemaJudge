@@ -17,7 +17,7 @@ package problema;
  * 
  * 
  * "Estaba en Texas tranquila hasta que un extraño grito a mi exmarido, exijia que Felix tuviera sexo con el, mi exmarido lo boxeo y pedimos un taxi"
- * "Una boxeadora de Texas extrañaba a Felix, su exmarido exiliado, se le paso y pidio un taxi"
+ * "Una boxeadora de Texas extrañaba a Felix, su exmarido exiliado, se le paso y pidio un taxi."
  * 
  * 
  * 
